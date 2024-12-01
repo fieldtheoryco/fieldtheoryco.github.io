@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.yourseniorcarechoice.com/</link>
+		<lastBuildDate>Wed, 05 Sep 2018 07:32:55 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.yourseniorcarechoice.com/?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Expressive fine art photography</title>
+			<link>http://www.yourseniorcarechoice.com/32-demo-content/106-expressive-fine-art-photography</link>
+			<guid isPermaLink="true">http://www.yourseniorcarechoice.com/32-demo-content/106-expressive-fine-art-photography</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="http://www.yourseniorcarechoice.com/images/demo/img12.jpg" /></p><p>Maecenas interdum tortor quis tellus facilisis varius. Donec sollicitudin lorem vitae enim iaculis quis feugiat elit pellentesque. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare in vel lorem. Nulla condimentum consectetur adipiscing elit. Vestibulum venenatis orci non tortor accumsan. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare.</p></div>]]></description>
+			<author>blank@gavick.com (Super User)</author>
+			<category>Featured</category>
+			<category>Demo content</category>
+			<pubDate>Mon, 03 Feb 2014 11:24:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>5 Ways changed creativity forever</title>
+			<link>http://www.yourseniorcarechoice.com/33-demo-content/subcategory-1/101-5-ways-changed-creativity-forever</link>
+			<guid isPermaLink="true">http://www.yourseniorcarechoice.com/33-demo-content/subcategory-1/101-5-ways-changed-creativity-forever</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="http://www.yourseniorcarechoice.com/images/demo/img1.jpg" /></p><p>Maecenas interdum tortor quis tellus facilisis varius. Donec sollicitudin lorem vitae enim iaculis quis feugiat elit pellentesque. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare in vel lorem. Nulla condimentum consectetur adipiscing elit. Vestibulum venenatis orci non tortor accumsan. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare.</p></div>]]></description>
+			<author>blank@gavick.com (Super User)</author>
+			<category>Featured</category>
+			<category>Subcategory I</category>
+			<category>Demo content</category>
+			<pubDate>Mon, 03 Feb 2014 11:19:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>Mobile app landing page</title>
+			<link>http://www.yourseniorcarechoice.com/33-demo-content/subcategory-1/98-mobile-app-landing-page</link>
+			<guid isPermaLink="true">http://www.yourseniorcarechoice.com/33-demo-content/subcategory-1/98-mobile-app-landing-page</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="http://www.yourseniorcarechoice.com/images/demo/img4.jpg" /></p><p>Maecenas interdum tortor quis tellus facilisis varius. Donec sollicitudin lorem vitae enim iaculis quis feugiat elit pellentesque. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare in vel lorem. Nulla condimentum consectetur adipiscing elit. Vestibulum venenatis orci non tortor accumsan. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare.</p></div>]]></description>
+			<author>blank@gavick.com (Super User)</author>
+			<category>Featured</category>
+			<category>Subcategory I</category>
+			<category>Demo content</category>
+			<pubDate>Mon, 03 Feb 2014 11:16:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Stunning Fine Art Photography</title>
+			<link>http://www.yourseniorcarechoice.com/34-demo-content/subcategory-2/104-stunning-fine-art-photography</link>
+			<guid isPermaLink="true">http://www.yourseniorcarechoice.com/34-demo-content/subcategory-2/104-stunning-fine-art-photography</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="http://www.yourseniorcarechoice.com/images/demo/img10.jpg" /></p><p>Maecenas interdum tortor quis tellus facilisis varius. Donec sollicitudin lorem vitae enim iaculis quis feugiat elit pellentesque. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare in vel lorem. Nulla condimentum consectetur adipiscing elit. Vestibulum venenatis orci non tortor accumsan. Fusce congue rutrum lorem sed dignissim. Suspendisse id metus ac risus imperdiet ornare.</p></div>]]></description>
+			<author>blank@gavick.com (Super User)</author>
+			<category>Featured</category>
+			<category>Subcategory II</category>
+			<category>Demo content</category>
+			<pubDate>Mon, 03 Feb 2014 11:22:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
